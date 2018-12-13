@@ -1988,7 +1988,7 @@ CharmanderEvosMoves:
 
 SquirtleEvosMoves:
 ; Evolutions
-	db EV_LEVEL, 16, WARTORTLE
+	db EV_LEVEL, 10, WARTORTLE
 	db 0
 ; Learnset
 	db 8, BUBBLE
@@ -2014,7 +2014,7 @@ CharmeleonEvosMoves:
 
 WartortleEvosMoves:
 ; Evolutions
-	db EV_LEVEL, 36, BLASTOISE
+	db EV_LEVEL, 30, BLASTOISE
 	db 0
 ; Learnset
 	db 8, BUBBLE

@@ -1,11 +1,11 @@
 db DEX_BLASTOISE ; pokedex id
 db 79 ; base hp
-db 83 ; base attack
-db 100 ; base defense
-db 78 ; base speed
-db 85 ; base special
+db 255 ; base attack
+db 255 ; base defense
+db 255 ; base speed
+db 255 ; base special
 db WATER ; species type 1
-db WATER ; species type 2
+db ICE ; species type 2
 db 45 ; catch rate
 db 210 ; base exp yield
 INCBIN "pic/bmon/blastoise.pic",0,1 ; 77, sprite dimensions

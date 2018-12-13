@@ -1,9 +1,9 @@
 db DEX_SQUIRTLE ; pokedex id
 db 44 ; base hp
-db 248 ; base attack
-db 255 ; base defense
-db 243 ; base speed
-db 250 ; base special
+db 100 ; base attack
+db 100 ; base defense
+db 100 ; base speed
+db 100 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 45 ; catch rate

@@ -1,9 +1,9 @@
 db DEX_WARTORTLE ; pokedex id
 db 59 ; base hp
-db 63 ; base attack
-db 80 ; base defense
-db 58 ; base speed
-db 65 ; base special
+db 150 ; base attack
+db 150 ; base defense
+db 150 ; base speed
+db 150 ; base special
 db WATER ; species type 1
 db WATER ; species type 2
 db 45 ; catch rate
